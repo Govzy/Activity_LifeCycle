@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity_LifeCycle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Submit">Submit</string>
+    <string name="Submit_Page">Submit</string>
+    <string name="Next_Page">Next Page</string>
+    <string name="Next_Page_Button">Next Page !!!</string>
+    <string name="Click_Label">Click here to go to the next page</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
